@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "version": "support-demo-1",
+  "rules": [
+    {"id": "support-tax-id", "scope": {"role": "support", "method": "GET", "route": "/customers/1"},
+     "forbid": ["customer.taxId"], "severity": "high"}
+  ]
+}

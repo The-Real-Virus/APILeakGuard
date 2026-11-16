@@ -1,0 +1,1 @@
+{"schema_version":1,"version":"support-demo-2","rules":[{"id":"support-approved-shape","scope":{"role":"support","method":"GET","route":"/customers/1"},"allow":["customer.id","customer.taxId"]}]}

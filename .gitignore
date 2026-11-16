@@ -1,0 +1,13 @@
+/Release/
+.tools/
+.work/
+dist/
+release/
+profile/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.dpapi
+.env
+gemini-api-key.txt
+~$*

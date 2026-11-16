@@ -1,0 +1,8 @@
+.tools/
+.work/
+dist/
+release/
+__pycache__/
+*.py[cod]
+*.sqlite*
+.env

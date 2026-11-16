@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "name": "Sample project",
+  "scopes": [
+    {"api":"Support fixture","environment":"test","base":"https://api.example.test/v1"},
+    {"api":"Support fixture","environment":"staging","base":"https://staging.example.test/v1"}
+  ]
+}

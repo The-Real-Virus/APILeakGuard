@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "kind": "response",
+  "api": "Support fixture",
+  "environment": "test",
+  "method": "GET",
+  "route": "/customers/1",
+  "role": "support",
+  "status": 200,
+  "headers": {"Content-Type": "application/json"},
+  "body": {"customer": {"id": "demo-1", "taxId": "999-99-0000"}}
+}
